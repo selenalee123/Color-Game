@@ -3,4 +3,4 @@
 
  you can play the game at https://selenalee123.github.io/Color-Game/
 
-![](Photoofthegame.png)
+![](https://github.com/selenalee123/Color-Game/blob/master/Photo%20of%20the%20game%20.png)
